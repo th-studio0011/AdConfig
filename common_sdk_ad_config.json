@@ -1,0 +1,47 @@
+{
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "first": 1,
+      "next": 4,
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/1033173712"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "24534e1901884e398f1253216226017e"
+        }
+      ]
+    },
+    "native_main": {
+      "first": 1,
+      "next": 1,
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "11a17b188668469fb0412708c3d16813"
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/6300978111"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "b195f8dd8ded45fe847ad89ed1d016da"
+        }
+      ]
+    }
+  }
+}
