@@ -1,5 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "default-asset-version",
+  "notification_config": {
+    "enable": true,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "❤Have a nice day!!",
+    "content": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
   "ads_config": {
     "enable": true
   },
@@ -9,11 +17,16 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-3940256099942544/1033173712",
-          "enable": true
+          "enable": false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "24534e1901884e398f1253216226017e"
+          "ad_unit": "24534e1901884e398f1253216226017e",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
@@ -23,13 +36,14 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
-          "enable": true
+          "ad_unit": "ca-app-pub-3940256099942544/1033173712"
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "24534e1901884e398f1253216226017e",
-          "enable": false
+          "ad_unit": "24534e1901884e398f1253216226017e"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -44,6 +58,9 @@
           "ad_network": "mopub",
           "ad_unit": "24534e1901884e398f1253216226017e",
           "enable": true
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -58,12 +75,31 @@
           "ad_network": "mopub",
           "ad_unit": "24534e1901884e398f1253216226017e",
           "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
-    "native_main": {
-      "first": 1,
-      "next": 1,
+    "full_main_4": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "24534e1901884e398f1253216226017e",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
+        }
+      ]
+    },
+    "native_main_1": {
       "units": [
         {
           "ad_network": "admob",
@@ -72,10 +108,64 @@
         {
           "ad_network": "mopub",
           "ad_unit": "11a17b188668469fb0412708c3d16813"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
-    "banner_main": {
+    "native_main_2": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "11a17b188668469fb0412708c3d16813"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main_3": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "11a17b188668469fb0412708c3d16813",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main_4": {
+      "units": [
+        {
+          "ad_network": "startio",
+          "enable": false
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "11a17b188668469fb0412708c3d16813",
+          "enable": false
+        }
+      ]
+    },
+    "banner_main_1": {
       "units": [
         {
           "ad_network": "admob",
@@ -84,6 +174,62 @@
         {
           "ad_network": "mopub",
           "ad_unit": "b195f8dd8ded45fe847ad89ed1d016da"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_main_2": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/6300978111",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "b195f8dd8ded45fe847ad89ed1d016da"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_main_3": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/6300978111",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "b195f8dd8ded45fe847ad89ed1d016da",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_main_4": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-3940256099942544/6300978111",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "b195f8dd8ded45fe847ad89ed1d016da",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "ad_unit": "",
+          "enable": false
         }
       ]
     }
