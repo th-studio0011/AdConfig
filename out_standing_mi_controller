@@ -1,0 +1,62 @@
+{
+  "version": "default-asset-version",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "",
+    "content": ""
+  },
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "9636ea7773fe476cabb5a34380570daf"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_setting": {
+      "first": 1,
+      "next": 1,
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "ad3427e1ae7f4617a62efca2482f59c2"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_exit": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "107ec1d131b84d919e000b4b26116645"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "829982d2635b452497749f90d582f22b"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
