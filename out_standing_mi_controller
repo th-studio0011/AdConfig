@@ -9,7 +9,7 @@
     "content": ""
   },
   "ads_config": {
-    "enable": false
+    "enable": true
   },
   "ad_units": {
     "full_splash": {
