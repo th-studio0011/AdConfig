@@ -28,6 +28,8 @@
       ]
     },
     "full_main_click": {
+      "first": 2,
+      "next": 3,
       "units": [
         {
           "ad_network": "admob",
@@ -117,6 +119,5 @@
         }
       ]
     }
-
   }
 }
