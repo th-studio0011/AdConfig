@@ -16,7 +16,8 @@
       "units": [
         {
           "ad_network": "mopub",
-          "ad_unit": "9636ea7773fe476cabb5a34380570daf"
+          "ad_unit": "9636ea7773fe476cabb5a34380570daf",
+          "enable":false
         },
         {
           "ad_network": "startio"
@@ -29,7 +30,8 @@
       "units": [
         {
           "ad_network": "mopub",
-          "ad_unit": "ad3427e1ae7f4617a62efca2482f59c2"
+          "ad_unit": "ad3427e1ae7f4617a62efca2482f59c2",
+          "enable":false
         },
         {
           "ad_network": "startio"
@@ -51,7 +53,8 @@
       "units": [
         {
           "ad_network": "mopub",
-          "ad_unit": "829982d2635b452497749f90d582f22b"
+          "ad_unit": "829982d2635b452497749f90d582f22b",
+          "enable":false
         },
         {
           "ad_network": "startio"
