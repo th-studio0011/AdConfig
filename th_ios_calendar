@@ -1,0 +1,107 @@
+{
+  "version": "default-asset-version",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "",
+    "content": ""
+  },
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/8008453892"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_create_event": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9373252866"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_exit_app": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4859292786"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_add_event": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2041557753"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_settings": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4167305449"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "common_banner": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/1567647557"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+
+  }
+}
