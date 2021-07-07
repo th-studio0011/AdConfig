@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "❤Have a nice day!!",
+    "content": "Let's open Skin Tools and enjoy many beautiful skins <3"
+  },
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "ae3a24343cd24310bd6abe3935a414bc"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_apply_skin": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "5bda4c8aff304e39a6a03dba2bc16438"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_menu": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "31530464db6745e69e47dedb9ac3ed38"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_list_skin": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "07e9bdaae97f42c0be0c229324c9e720"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_detail_skin": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "aa5b87b503a247b3a24b788396a193c6"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_exit": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "369e18e46b0a4a8ba325b86ff94929c2"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "7e384a937ef444dca273d6590a9a5a5a"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "0a132f077b2649b6ad5bc14455bf1bef"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
