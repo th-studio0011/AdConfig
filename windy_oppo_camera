@@ -19,7 +19,8 @@
           "ad_unit": "ca-app-pub-1266329057696784/9878024011"
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -35,7 +36,8 @@
           "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -51,7 +53,8 @@
           "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -67,7 +70,8 @@
           "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -83,7 +87,8 @@
           "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -131,7 +136,8 @@
           "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -146,7 +152,8 @@
           "ad_unit": "ca-app-pub-1266329057696784/3403033438"
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
