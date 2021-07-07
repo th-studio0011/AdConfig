@@ -1,0 +1,151 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": true,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "❤Have a nice day!!",
+    "content": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9878024011"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "8b12b470949244e9b782fbbc2ac56406"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_camera": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/8564942341"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "dc50665b6d7c41e4b3918d9bbca29d81"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_save_collage": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5938779005"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "3be08917d4c94c218d4d19fa0a765b1a"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/1999533998"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "45a1515b6da54136abdba68431b505fe"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_save_edit": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7533850132"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "bc787cb2402a482693ba055c41603530"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_collection": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3594605128"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "ddfd84466d194b9999bf8375aa67b101"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_edit": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7342278441"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "89248fc7c46a446eb26e048505e5b45a"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_exit": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5893465404"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "bca91c52664c423b9acc18f79fc94ce5"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_setting": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3403033438"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "6ca955d873ff4853972fe6d02d4bb262"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
