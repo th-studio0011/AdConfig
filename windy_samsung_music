@@ -19,7 +19,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "1d264812ba094372acfff3a3abb5b961"
         }
       ]
     },
@@ -30,7 +30,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "b56d377b7cac4a5497156bacb2760fd1"
         }
       ]
     },
@@ -41,7 +41,16 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "cdc10e50374549f0a010e21100678447"
+        }
+      ]
+    },
+    "full_main_item": {
+      "first": 4,
+      "next": 8,
+      "units": [
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -52,7 +61,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "794e145f7ed04cabbc015d973736a6bb"
         }
       ]
     },
@@ -63,7 +72,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "7f89255185b24e5ea0f0aa6c3eec5c24"
         }
       ]
     },
@@ -74,7 +83,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "f1a7a958ecdb412880775228c1843610"
         }
       ]
     },
@@ -85,7 +94,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "78a8861e2a92406d92b193f3c2ffbce1"
         }
       ]
     }
