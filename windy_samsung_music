@@ -1,0 +1,93 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "Good morning",
+    "content": "Open Samsung Music Player and enjoy your new day!"
+  },
+  "ads_config": {
+    "enable": true
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_mini_bar": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_create_playlist": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_player": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_common": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_exit": {
+      "units": [
+        {
+          "ad_network": "startio"
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": ""
+        }
+      ]
+    }
+  }
+}
