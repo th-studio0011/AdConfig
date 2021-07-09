@@ -15,13 +15,11 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "a982984fc1ab47d9b0586ce49cbe92e0",
-          "enable": false
+          "ad_unit": "a982984fc1ab47d9b0586ce49cbe92e0"
         }
       ]
     },
