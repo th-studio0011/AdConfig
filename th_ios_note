@@ -44,6 +44,8 @@
       ]
     },
     "full_view_note": {
+      "first": 2,
+      "next": 4,
       "units": [
         {
           "ad_network": "admob",
@@ -59,7 +61,7 @@
         }
       ]
     },
-    "main_banner": {
+    "banner_main": {
       "units": [
         {
           "ad_network": "admob",
