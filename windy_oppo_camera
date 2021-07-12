@@ -9,7 +9,7 @@
     "content": "Let’s take selfies with beautiful features, filters, and stickers!!!"
   },
   "ads_config": {
-    "enable": true
+    "enable": false
   },
   "ad_units": {
     "full_splash": {
