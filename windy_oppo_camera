@@ -9,14 +9,15 @@
     "content": "Let’s take selfies with beautiful features, filters, and stickers!!!"
   },
   "ads_config": {
-    "enable": false
+    "enable": true
   },
   "ad_units": {
     "full_splash": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/9878024011"
+          "ad_unit": "ca-app-pub-1266329057696784/9878024011",
+          "enable":false
         },
         {
           "ad_network": "startio",
@@ -24,7 +25,8 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "8b12b470949244e9b782fbbc2ac56406"
+          "ad_unit": "8b12b470949244e9b782fbbc2ac56406",
+          "enable":false
         }
       ]
     },
@@ -32,8 +34,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/8564942341",
-          "enable": false
+          "ad_unit": "ca-app-pub-1266329057696784/8564942341"
         },
         {
           "ad_network": "startio",
@@ -41,7 +42,8 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "dc50665b6d7c41e4b3918d9bbca29d81"
+          "ad_unit": "dc50665b6d7c41e4b3918d9bbca29d81",
+          "enable": false
         }
       ]
     },
