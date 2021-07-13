@@ -9,7 +9,7 @@
     "content": "Open Music Player and enjoy your new day!"
   },
   "ads_config": {
-    "enable": true
+    "enable": false
   },
   "ad_units": {
     "full_splash": {
