@@ -16,7 +16,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6524445820"
+          "ad_unit": "ca-app-pub-1266329057696784/6524445820",
+          "enable":false
         },
         {
           "ad_network": "mopub",
@@ -49,7 +50,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6819959292"
+          "ad_unit": "ca-app-pub-1266329057696784/6819959292",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -80,7 +82,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5459610314"
+          "ad_unit": "ca-app-pub-1266329057696784/5459610314",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -95,7 +98,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5268038624"
+          "ad_unit": "ca-app-pub-1266329057696784/5268038624",
+          "enable": false
         },
         {
           "ad_network": "mopub",
@@ -110,7 +114,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5076466931"
+          "ad_unit": "ca-app-pub-1266329057696784/5076466931",
+          "enable": false
         },
         {
           "ad_network": "mopub",
