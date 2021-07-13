@@ -19,7 +19,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "b7e050fded92436299f0f52fec534f27"
         }
       ]
     },
@@ -30,20 +30,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
-        }
-      ]
-    },
-    "full_main_item": {
-      "first": 4,
-      "next": 8,
-      "units": [
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "197ca1263a8f48d8b08f2c9741aabf81"
         }
       ]
     },
@@ -54,7 +41,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "c5375f05a4dc4809b2ea38d4b0300ef6"
         }
       ]
     },
@@ -65,7 +52,7 @@
         },
         {
           "ad_network": "mopub",
-          "ad_unit": ""
+          "ad_unit": "d6ec314994d14d7e806bd7cab0d77dd7"
         }
       ]
     }
