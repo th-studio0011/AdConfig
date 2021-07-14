@@ -5,70 +5,19 @@
     "hour": "8",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "❤Have a nice day!!",
+    "title": "Fighting now!!",
     "content": "Open skin tools and enjoy many Free fire skins now. ❤❤❤"
   },
   "ads_config": {
-    "enable": true
+    "enable": true,
+    "interval": 30
   },
   "ad_units": {
-    "full_splash": {
+    "full_main": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/1744763025"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "52cc40bb2efb4ffb979f6de1fe507c9d"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "full_apply_skin": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/5492436348"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "17860133c06e4a4bb6a30e2136d23a54"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "banner_main": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/3632559769"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "5ec069757079429e9436b93eadb501b1"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "native_exit": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/9623253046"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "360578e108a94eeb9ef514a5d9cafbaf"
-        },
-        {
-          "ad_network": "startio"
+          "ad_unit": "ca-app-pub-8640346851651439/6931919179"
         }
       ]
     }
