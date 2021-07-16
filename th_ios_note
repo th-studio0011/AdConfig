@@ -9,7 +9,7 @@
     "content": "Open iOS Note to keep track of your busy schedule <3"
   },
   "ads_config": {
-    "enable": false
+    "enable": true
   },
   "ad_units": {
     "full_splash": {
