@@ -1,5 +1,5 @@
 {
-  "version": "1.0-asset",
+  "version": "1.0",
   "notification_config": {
     "enable": true,
     "hour": "8",
