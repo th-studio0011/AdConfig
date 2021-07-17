@@ -1,4 +1,3 @@
-
 {
   "version": "1.0-asset",
   "notification_config": {
@@ -10,7 +9,7 @@
     "content": "Let’s take selfies with beautiful features, filters, and effects!!!"
   },
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
