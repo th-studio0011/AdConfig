@@ -34,7 +34,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/8564942341"
+          "ad_unit": "ca-app-pub-1266329057696784/8564942341",
+          "enable": false
         },
         {
           "ad_network": "startio",
@@ -88,7 +89,7 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-1266329057696784/7533850132",
-          "enable": false
+          "enable": true
         },
         {
           "ad_network": "startio",
