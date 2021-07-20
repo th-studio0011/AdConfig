@@ -15,7 +15,8 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable":false
         },
         {
           "ad_network": "mopub",
@@ -26,11 +27,13 @@
     "full_mini_bar": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable":false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "3c81f9d768a54374a2f47cf4d4e94186"
+          "ad_unit": "3c81f9d768a54374a2f47cf4d4e94186",
+          "enable":false
         }
       ]
     },
@@ -39,11 +42,13 @@
       "next": 8,
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable":false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "13053fdfb7ed44c9a3fea7c8324fb023"
+          "ad_unit": "13053fdfb7ed44c9a3fea7c8324fb023",
+          "enable":false
         }
       ]
     },
@@ -61,7 +66,8 @@
     "native_exit": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+           "enable":false
         },
         {
           "ad_network": "mopub",
