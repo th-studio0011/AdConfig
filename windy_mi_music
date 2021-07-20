@@ -9,50 +9,70 @@
     "content": "Open Music Player and enjoy your new day!"
   },
   "ads_config": {
-    "enable": false
+    "enable": false,
+    "interval: 30
   },
   "ad_units": {
-    "full_splash": {
+    "open_splash": {
       "units": [
         {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "b7e050fded92436299f0f52fec534f27"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "enable": true
         }
       ]
     },
     "full_mini_bar": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "enable": true
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "197ca1263a8f48d8b08f2c9741aabf81"
+          "ad_unit": "197ca1263a8f48d8b08f2c9741aabf81",
+          "enable": false
         }
       ]
     },
     "banner_player": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "c5375f05a4dc4809b2ea38d4b0300ef6"
+          "ad_unit": "c5375f05a4dc4809b2ea38d4b0300ef6",
+          "enable": false
         }
       ]
     },
     "native_exit": {
       "units": [
         {
-          "ad_network": "startio"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
         },
         {
           "ad_network": "mopub",
-          "ad_unit": "d6ec314994d14d7e806bd7cab0d77dd7"
+          "ad_unit": "d6ec314994d14d7e806bd7cab0d77dd7",
+          "enable": false
         }
       ]
     }
