@@ -17,7 +17,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "ad_unit": "ca-app-pub-4258456153285085/3639271929",
           "enable": true
         }
       ]
@@ -44,7 +44,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "ad_unit": "ca-app-pub-4258456153285085/4761901469",
           "enable": false
         },
         {
@@ -62,7 +62,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/5718640357",
+          "ad_unit": "ca-app-pub-4258456153285085/1057819540",
           "enable": false
         },
         {
