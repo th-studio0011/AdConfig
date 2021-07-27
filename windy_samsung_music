@@ -9,7 +9,7 @@
     "content": "Open Samsung Music Player and enjoy your life after a hardworking day"
   },
   "ads_config": {
-    "enable": true
+    "enable": false
   },
   "ad_units": {
     "full_splash": {
