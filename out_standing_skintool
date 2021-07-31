@@ -2,7 +2,7 @@
   "version": "2.0",
   "notification_config": {
     "enable": true,
-    "hour": "8",
+    "hour": "20",
     "minute": "0",
     "interval_in_hour": 24,
     "title": "Fighting now!!",
@@ -13,11 +13,11 @@
     "interval": 30
   },
   "ad_units": {
-    "full_main": {
+    "full_main_item": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/6931919179"
+          "ad_unit": "ca-app-pub-8640346851651439/5556774660"
         }
       ]
     }
