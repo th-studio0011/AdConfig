@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": true,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "❤Have a nice day!!",
+    "content": "Let’s take selfies with beautiful features, filters, and effects!!!"
+  },
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_back_home": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_view_photo": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_view_back_photo": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": false
+        }
+      ]
+    },
+    "full_save_edit_photo": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_save_collage": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_gallery": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    }
+  }
+}
