@@ -10,7 +10,7 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 30
+    "interval": 90
   },
   "ad_units": {
     "full_main_item": {
