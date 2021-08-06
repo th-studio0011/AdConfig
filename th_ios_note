@@ -2,95 +2,48 @@
   "version": "1.0",
   "notification_config": {
     "enable": true,
-    "hour": "8",
+    "hour": "21",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "Good morning",
-    "content": "Open iOS Note to keep track of your busy schedule <3"
+    "title": "Good afternoon",
+    "content": "Do you want to check your note now?."
   },
   "ads_config": {
-    "enable": false
+    "enable": true,
+    "interval": 90
   },
   "ad_units": {
-    "full_splash": {
+    "full_note_save": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/8490411418",
+          "ad_unit": "ca-app-pub-1266329057696784/1763163024"
+        },
+        {
+          "ad_network": "startio",
           "enable": false
         },
         {
-          "ad_network": "startio"
-        },
-        {
           "ad_network": "mopub",
-          "ad_unit": "8ba98ffacca146749f6b2b2f2fbea9f1"
+          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
+          "enable": false
         }
       ]
     },
-    "full_save_note": {
+    "full_note_view": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/8490411418",
+          "ad_unit": "ca-app-pub-1266329057696784/5241235420"
+        },
+        {
+          "ad_network": "startio",
           "enable": false
         },
         {
-          "ad_network": "startio"
-        },
-        {
           "ad_network": "mopub",
-          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1"
-        }
-      ]
-    },
-    "full_view_note": {
-      "first": 2,
-      "next": 4,
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3519202055",
+          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
           "enable": false
-        },
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1"
-        }
-      ]
-    },
-    "banner_main": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5672676388",
-          "enable": false
-        },
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "3ee7646b006e4ba1b4c2681609153e7f"
-        }
-      ]
-    },
-    "native_exit": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6794186369",
-          "enable": false
-        },
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "e56abe1749704020b656a6cd30d22a7e"
         }
       ]
     }
