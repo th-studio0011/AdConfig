@@ -9,120 +9,39 @@
     "content": "Have a good day <3"
   },
   "ads_config": {
-    "enable": false
+    "enable": true,
+    "interval": 90
   },
   "ad_units": {
-    "full_splash": {
+    "full_click_main": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6524445820",
-          "enable":false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "28e4862f8ffa40c69879256d0d44168d"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "full_main_click": {
-      "first": 2,
-      "next": 5,
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/9698878857",
-          "enable": false
+          "ad_unit": "ca-app-pub-1266329057696784/7892090126"
         },
         {
           "ad_network": "mopub",
           "ad_unit": "3fc42437f95f4344a9b51775ac414857"
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
-    "full_create_event": {
+    "full_event_created": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6819959292",
-          "enable": false
+          "ad_unit": "ca-app-pub-1266329057696784/5433447748"
         },
         {
           "ad_network": "mopub",
           "ad_unit": "e67c3509ae1a4e1c99f2c76c1e88f494"
         },
         {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "native_exit_app": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/9590427011",
+          "ad_network": "startio",
           "enable": false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "f9afea2c6f87442eb9ab0b3187cd17de"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "native_add_event": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5459610314",
-          "enable": false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "ad4a211d94d246d9b65619d2727987de"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "native_settings": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5268038624",
-          "enable": false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "4bf7681253fa419bb0e317d817acb9e2"
-        },
-        {
-          "ad_network": "startio"
-        }
-      ]
-    },
-    "common_banner": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5076466931",
-          "enable": false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "646d74bf9cda43eaa6ac593493547978  "
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     }
