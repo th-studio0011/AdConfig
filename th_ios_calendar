@@ -9,7 +9,7 @@
     "content": "Have a good day <3"
   },
   "ads_config": {
-    "enable": true,
+    "enable": false,
     "interval": 90
   },
   "ad_units": {
