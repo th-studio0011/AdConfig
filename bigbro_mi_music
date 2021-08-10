@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": true,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "Good morning",
+    "content": "Open Music Player and enjoy your new day!"
+  },
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": true
+        }
+      ]
+    }
+  }
+}
