@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "notification_config": {
+    "enable": true,
+    "hour": "20",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "Good evening",
+    "content": "Open Music Player and enjoy your life after a hardworking day!"
+  },
+  "ads_config": {
+    "enable": true,
+    "interval": 60
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": true
+        }
+      ]
+    },
+    "full_mini_player": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": true
+        }
+      ]
+    },
+    "banner_player": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": true
+        }
+      ]
+    }
+  }
+}
