@@ -9,7 +9,7 @@
     "content": "Do you want to check your note now?."
   },
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 90
   },
   "ad_units": {
