@@ -18,15 +18,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-1266329057696784/1763163024"
-        },
-        {
-          "ad_network": "startio",
-          "enable": false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
-          "enable": false
         }
       ]
     },
