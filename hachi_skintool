@@ -1,30 +1,32 @@
 {
   "version": "1.0",
   "notification_config": {
-    "enable": false,
-    "hour": "8",
+    "enable": true,
+    "hour": "22",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "❤Have a nice day!!",
+    "title": "Fighting",
     "content": "Let's open Skin Tools and enjoy many beautiful skins <3"
   },
   "ads_config": {
-    "enable": false
+    "enable": true,
+    "interval": 60
   },
   "ad_units": {
-    "full_splash": {
+    "open_splash": {
       "units": [
         {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "ae3a24343cd24310bd6abe3935a414bc"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/3805020351"
         }
       ]
     },
     "full_apply_skin": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/4662165823"
+        },
         {
           "ad_network": "startio"
         },
@@ -34,8 +36,12 @@
         }
       ]
     },
-    "full_main_menu": {
+    "full_main_item": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/3805020351"
+        },
         {
           "ad_network": "startio"
         },
@@ -45,8 +51,12 @@
         }
       ]
     },
-    "banner_list_skin": {
+    "banner_skin_list": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/5783675803"
+        },
         {
           "ad_network": "startio"
         },
@@ -56,41 +66,20 @@
         }
       ]
     },
-    "banner_detail_skin": {
-      "units": [
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "aa5b87b503a247b3a24b788396a193c6"
-        }
-      ]
-    },
-    "native_exit": {
-      "units": [
-        {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "369e18e46b0a4a8ba325b86ff94929c2"
-        }
-      ]
-    },
     "native_main": {
       "units": [
         {
-          "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "7e384a937ef444dca273d6590a9a5a5a"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/3805020351"
         }
       ]
     },
     "native_detail": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-6223305386183432/3805020351"
+        },
         {
           "ad_network": "startio"
         },
