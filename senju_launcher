@@ -1,5 +1,5 @@
 {
-  "version": "default-asset-version",
+  "version": "1.2",
   "notification_config": {
     "enable": false,
     "hour": "8",
@@ -17,7 +17,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-4258456153285085/8094800910"
         }
       ]
     },
@@ -25,7 +25,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-4258456153285085/7061399773"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-4258456153285085/3362468542"
         }
       ]
     }
