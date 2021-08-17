@@ -1,0 +1,41 @@
+{
+  "version": "default-asset-version",
+  "notification_config": {
+    "enable": false,
+    "hour": "8",
+    "minute": "0",
+    "interval_in_hour": 24,
+    "title": "",
+    "content": ""
+  },
+  "ads_config": {
+    "enable": true,
+    "interval": 60
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    }
+  }
+}
