@@ -6,7 +6,7 @@
     "minute": "0",
     "interval_in_hour": 24,
     "title": "Good afternoon",
-    "content": "Do you want to check your note now?."
+    "content": "Time to plan for tomorrow."
   },
   "ads_config": {
     "enable": true,
