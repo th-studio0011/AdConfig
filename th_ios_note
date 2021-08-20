@@ -5,8 +5,8 @@
     "hour": "21",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "Good Evening",
-    "content": "Time to plan for tomorrow."
+    "title": "Good evening",
+    "content": "Do you forget something? Check it now."
   },
   "ads_config": {
     "enable": true,
@@ -18,6 +18,15 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-1266329057696784/1763163024"
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
+        },
+        {
+          "ad_network": "mopub",
+          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
+          "enable": false
         }
       ]
     },
@@ -35,6 +44,30 @@
           "ad_network": "mopub",
           "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
           "enable": false
+        }
+      ]
+    },
+    "native_folder_list": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6958431765"
+        }
+      ]
+    },
+    "native_setting": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4739462536"
+        }
+      ]
+    },
+    "native_option": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3019186757"
         }
       ]
     }
