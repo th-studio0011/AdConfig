@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "notification_config": {
-    "enable": true,
+    "enable": false,
     "hour": "8",
     "minute": "0",
     "interval_in_hour": 24,
