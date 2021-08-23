@@ -17,7 +17,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/3993880162",
+          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
           "enable": true
         }
       ]
@@ -26,7 +26,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/6612304646",
+          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
           "enable": true
         }
       ]
@@ -35,7 +35,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/7867059456",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
           "enable": true
         }
       ]
@@ -44,7 +44,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/3927814443",
+          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
           "enable": true
         }
       ]
