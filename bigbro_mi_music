@@ -2,22 +2,22 @@
   "version": "1.0",
   "notification_config": {
     "enable": false,
-    "hour": "22",
+    "hour": "8",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "Good evening",
-    "content": "Open Music Player and enjoy your times!"
+    "title": "Good morning",
+    "content": "Open Music Player and enjoy your new day!"
   },
   "ads_config": {
     "enable": false,
     "interval": 60
   },
   "ad_units": {
-    "full_splash": {
+    "open_splash": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
+          "ad_unit": "ca-app-pub-5026270687123701/9165894333",
           "enable": true
         }
       ]
@@ -26,7 +26,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-3940256099942544/1033173712",
+          "ad_unit": "ca-app-pub-5026270687123701/7630285537",
           "enable": true
         }
       ]
@@ -35,7 +35,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+          "ad_unit": "ca-app-pub-5026270687123701/5053876041",
           "enable": true
         }
       ]
@@ -44,7 +44,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-3940256099942544/2247696110",
+          "ad_unit": "ca-app-pub-5026270687123701/3740794375",
           "enable": true
         }
       ]
