@@ -9,7 +9,7 @@
     "content": "Let's open Skin Tools and enjoy many beautiful skins <3"
   },
   "ads_config": {
-    "enable": true,
+    "enable": false,
     "interval": 60
   },
   "ad_units": {
@@ -17,7 +17,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/3473847866"
+          "ad_unit": "ca-app-pub-6223305386183432/3473847866",
+          "enable": false
         }
       ]
     },
