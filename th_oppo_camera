@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.0-asset",
   "notification_config": {
     "enable": false,
     "hour": "8",
@@ -13,27 +13,15 @@
     "interval": 30
   },
   "ad_units": {
-    "open_splash": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": ""
-        }
-      ]
-    },
-    "full_back_home": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": ""
-        }
-      ]
-    },
     "full_main_item": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -41,16 +29,11 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
-        }
-      ]
-    },
-    "full_view_back_photo": {
-      "units": [
-        {
-          "ad_network": "admob",
           "ad_unit": "",
           "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -58,7 +41,11 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -66,7 +53,11 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -74,7 +65,11 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -82,7 +77,35 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_collage": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_success": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
