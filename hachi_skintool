@@ -2,10 +2,10 @@
   "version": "1.0",
   "notification_config": {
     "enable": false,
-    "hour": "22",
+    "hour": "8",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "Fighting!",
+    "title": "❤Have a nice day!!",
     "content": "Let's open Skin Tools and enjoy many beautiful skins <3"
   },
   "ads_config": {
@@ -26,8 +26,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/4662165823",
-          "enable": false
+          "ad_unit": "ca-app-pub-6223305386183432/4662165823"
         },
         {
           "ad_network": "startio"
@@ -57,7 +56,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/5783675803"
+          "ad_unit": "ca-app-pub-6223305386183432/5783675803",
+          "enable": false
         },
         {
           "ad_network": "startio"
@@ -72,7 +72,11 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/7089675159"
+          "ad_unit": "ca-app-pub-6223305386183432/7089675159",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -84,11 +88,26 @@
           "enable": false
         },
         {
+          "ad_network": "startio"
+        },
+        {
           "ad_network": "mopub",
-          "ad_unit": "0a132f077b2649b6ad5bc14455bf1bef",
-          "enable": false
+          "ad_unit": "0a132f077b2649b6ad5bc14455bf1bef"
         }
       ]
     }
-  }
+  },
+  "app_version_config": {
+    "last_version": "1.5",
+    "force_update": false
+  },
+  "recommendation_apps": [
+    {
+      "app_name": "Skin tools",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "We would like to introduce you New Skin Tool with criminal, hiphop bundles and many skins and weapon. Click to download it free now.",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/nfiYLGnhZrpukLSr4nnx8PHEhFcHUO_iHn6shDPQ7wl_HGb67yfLfo-fbQ33AwwJIaMn"
+    }
+  ]
 }
