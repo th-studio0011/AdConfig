@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 60
+  },
+  "ad_units": {
+    "open_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "native_success": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_create_icon": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    }
+  }
+}
