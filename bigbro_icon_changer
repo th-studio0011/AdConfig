@@ -1,7 +1,8 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": true,
+    "enable": false,
+    "app_id": "ca-app-pub-5026270687123701~4517956900",
     "interval": 60
   },
   "ad_units": {
@@ -9,7 +10,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/9578711890"
         }
       ]
     },
@@ -17,7 +18,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/5447895194"
         }
       ]
     },
@@ -25,7 +26,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/6136298513"
         }
       ]
     },
@@ -33,7 +34,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/3510135175"
         }
       ]
     }
