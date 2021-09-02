@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "app_id": "ca-app-pub-5026270687123701~1796726113",
+    "interval": 60
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/5839912903",
+          "enable": true
+        }
+      ]
+    },
+    "full_mini_player": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/5265197834",
+          "enable": true
+        }
+      ]
+    },
+    "native_home": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/1482220715",
+          "enable": true
+        }
+      ]
+    },
+    "native_main_player": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/6938561529",
+          "enable": true
+        }
+      ]
+    },
+    "full_library_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/9169139047",
+          "enable": true
+        }
+      ]
+    }
+  }
+}
