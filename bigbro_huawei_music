@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "app_id": "ca-app-pub-5026270687123701~1796726113",
     "interval": 60
   },
