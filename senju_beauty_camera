@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 10
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_camera": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+    "full_gallery": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
+     "native_main": {
+          "units": [
+            {
+              "ad_network": "admob",
+              "ad_unit": ""
+            }
+          ]
+        }
+  }
+}
