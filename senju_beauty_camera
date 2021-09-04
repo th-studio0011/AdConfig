@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": true,
-    "interval": 10
+    "enable": false,
+    "interval": 60
   },
   "ad_units": {
     "open_splash": {
