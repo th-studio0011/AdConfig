@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": false,
+    "interval": 60
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "",
+          "enable": false
+        }
+      ]
+    }
+}
