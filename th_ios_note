@@ -21,7 +21,7 @@
         },
         {
           "ad_network": "startio",
-          "enable": false
+          "enable": true
         },
         {
           "ad_network": "mopub",
@@ -38,7 +38,7 @@
         },
         {
           "ad_network": "startio",
-          "enable": false
+          "enable": true
         },
         {
           "ad_network": "mopub",
@@ -51,7 +51,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6958431765"
+          "ad_unit": "ca-app-pub-1266329057696784/6958431765",
+          "enable": false
         }
       ]
     },
@@ -59,7 +60,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4739462536"
+          "ad_unit": "ca-app-pub-1266329057696784/4739462536",
+          "enable": false
         }
       ]
     },
@@ -67,7 +69,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3019186757"
+          "ad_unit": "ca-app-pub-1266329057696784/3019186757",
+          "enable": false
         }
       ]
     }
