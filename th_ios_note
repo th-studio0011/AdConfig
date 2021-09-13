@@ -16,10 +16,6 @@
     "full_note_save": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/1763163024"
-        },
-        {
           "ad_network": "startio",
           "enable": true
         },
@@ -33,43 +29,12 @@
     "full_note_view": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5241235420"
-        },
-        {
           "ad_network": "startio",
           "enable": true
         },
         {
           "ad_network": "mopub",
           "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
-          "enable": false
-        }
-      ]
-    },
-    "native_folder_list": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6958431765",
-          "enable": false
-        }
-      ]
-    },
-    "native_setting": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4739462536",
-          "enable": false
-        }
-      ]
-    },
-    "native_option": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3019186757",
           "enable": false
         }
       ]
