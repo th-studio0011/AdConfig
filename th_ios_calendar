@@ -16,29 +16,22 @@
     "full_click_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/7892090126",
-          "enable":false
+          "ad_network": "startio"
         },
         {
           "ad_network": "mopub",
           "ad_unit": "3fc42437f95f4344a9b51775ac414857"
-        },
-        {
-          "ad_network": "startio",
-          "enable": false
         }
       ]
     },
     "full_event_created": {
       "units": [
         {
-          "ad_network": "mopub",
-          "ad_unit": "e67c3509ae1a4e1c99f2c76c1e88f494"
+          "ad_network": "startio"
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "e67c3509ae1a4e1c99f2c76c1e88f494"
         }
       ]
     }
