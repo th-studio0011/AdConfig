@@ -26,7 +26,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/4662165823"
+          "ad_unit": "ca-app-pub-6223305386183432/4662165823",
+          "enable": false
         },
         {
           "ad_network": "startio"
@@ -41,7 +42,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/3805020351"
+          "ad_unit": "ca-app-pub-6223305386183432/3805020351",
+          "enable": false
         },
         {
           "ad_network": "startio"
