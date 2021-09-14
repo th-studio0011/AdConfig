@@ -5,37 +5,74 @@
     "hour": "21",
     "minute": "0",
     "interval_in_hour": 24,
-    "title": "Good evening",
-    "content": "Do you forget something? Check it now."
+    "title": "Good afternoon",
+    "content": "Do you want to check your note now?."
   },
   "ads_config": {
     "enable": true,
-    "interval": 90
+    "interval": 5
   },
   "ad_units": {
-    "full_note_save": {
+    "open_splash": {
       "units": [
         {
-          "ad_network": "startio",
-          "enable": true
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
-          "enable": false
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_OpenAds"
         }
       ]
     },
-    "full_note_view": {
+    "full_note_save_click": {
       "units": [
         {
-          "ad_network": "startio",
-          "enable": true
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_Interstitial"
         },
         {
-          "ad_network": "mopub",
-          "ad_unit": "8c9cf2e1c3d54e5d83795d322026d9b1",
-          "enable": false
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_note_view_click": {
+      "units": [
+        {
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_Interstitial"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_folder_list_view": {
+      "units": [
+        {
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_Native"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_setting_view": {
+      "units": [
+        {
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_Native"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_option_view": {
+      "units": [
+        {
+          "ad_network": "adx",
+          "ad_unit": "/93656639,22594699073/NFI/NFI_Native"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
