@@ -10,56 +10,44 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 60
+    "interval": 20
   },
   "ad_units": {
-    "open_splash": {
+    "full_splash": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/3473847866",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "2029c88f201f27b3"
         }
       ]
     },
     "full_apply_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/4662165823",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "2b85bea3f367f8d8"
         },
         {
           "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "5bda4c8aff304e39a6a03dba2bc16438"
         }
       ]
     },
     "full_main_item": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/3805020351",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "f63ec93e2dcaaa7c"
         },
         {
           "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "31530464db6745e69e47dedb9ac3ed38"
         }
       ]
     },
     "banner_skin_list": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/5783675803",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "d6b5d58847c9b636"
         },
         {
           "ad_network": "startio"
@@ -73,9 +61,8 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/7089675159",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "3b679d7c05fae74e"
         },
         {
           "ad_network": "startio"
@@ -85,16 +72,11 @@
     "native_detail": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/9277333723",
-          "enable": false
+          "ad_network": "max",
+          "ad_unit": "6ef775182b6e126d"
         },
         {
           "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "0a132f077b2649b6ad5bc14455bf1bef"
         }
       ]
     }
@@ -105,11 +87,11 @@
   },
   "recommendation_apps": [
     {
-      "app_name": "Skin Tools Pro",
+      "app_name": "Skin tools",
       "package_name": "com.bigbro.free.skin.tools",
-      "short_des": "We have just added a new pack: \nSkin VIP V34, provides many new skins, guns, emotes, vehicles. Try it free now !.",
+      "short_des": "We have just added a new pack: \nSkin VIP V26, provides many skins, guns, emotes, vehicles. Try it free now !.",
       "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
-      "cover": "https://raw.githubusercontent.com/bigbro-studio/data-public/main/PREVIEW_V34.jpg"
+      "cover": "https://raw.githubusercontent.com/bigbro-studio/data-public/main/SKIN_V26_preview1.jpg"
     }
   ]
 }
