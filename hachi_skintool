@@ -82,7 +82,7 @@
     }
   },
   "app_version_config": {
-    "last_version": "1.5",
+    "last_version": "1.6",
     "force_update": false
   },
   "recommendation_apps": [
