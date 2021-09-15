@@ -46,15 +46,7 @@
     "banner_skin_list": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "d6b5d58847c9b636"
-        },
-        {
           "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "07e9bdaae97f42c0be0c229324c9e720"
         }
       ]
     },
