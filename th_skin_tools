@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 60
+  },
+  "ad_units": {
+    "open_app": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "full_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "native_category": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "full_mod_skin": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    },
+    "banner_list": {
+      "units": [
+        {
+          "ad_network": "admob",
+        }
+      ]
+    }
+  }
+}
