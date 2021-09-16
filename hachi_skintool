@@ -9,7 +9,7 @@
     "content": "Let's open Skin Tools and enjoy many beautiful skins <3"
   },
   "ads_config": {
-    "enable": true,
+    "enable": false,
     "interval": 20
   },
   "ad_units": {
