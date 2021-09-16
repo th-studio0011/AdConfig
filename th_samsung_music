@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "full_song_click": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/280246425",
+          "enable": false
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": "e7e49cd7dd27ccec"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_player_click": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9176300910",
+          "enable": false
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": "cc641c41dd83fd87"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
