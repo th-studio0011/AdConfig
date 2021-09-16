@@ -10,7 +10,7 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 5
+    "interval": 30
   },
   "ad_units": {
     "open_splash": {
