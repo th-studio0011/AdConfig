@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "full_song_click": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_player_click": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
