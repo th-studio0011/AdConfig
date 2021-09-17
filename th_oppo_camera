@@ -73,7 +73,8 @@
       "units": [
         {
           "ad_network": "mopub",
-          "ad_unit": "317d775dc7cb4eb696d9e2ac5ce1019a"
+          "ad_unit": "317d775dc7cb4eb696d9e2ac5ce1019a",
+          "enable": false
         },
         {
           "ad_network": "startio"
