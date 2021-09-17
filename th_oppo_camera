@@ -21,8 +21,7 @@
           "enable": false
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     },
