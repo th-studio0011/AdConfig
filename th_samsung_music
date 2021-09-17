@@ -8,11 +8,6 @@
     "full_song_click": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/280246425",
-          "enable": false
-        },
-        {
           "ad_network": "max",
           "ad_unit": "e7e49cd7dd27ccec"
         },
@@ -24,13 +19,41 @@
     "full_player_click": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/9176300910",
-          "enable": false
-        },
-        {
           "ad_network": "max",
           "ad_unit": "cc641c41dd83fd87"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "f49b70476604c7e5"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_main": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "9f3761ea3dfb8c6f"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_player": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "937ed0b26dabbf82"
         },
         {
           "ad_network": "startio"
