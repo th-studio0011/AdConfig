@@ -31,10 +31,12 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "f49b70476604c7e5"
+          "ad_unit": "f49b70476604c7e5",
+          "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
@@ -42,10 +44,12 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "9f3761ea3dfb8c6f"
+          "ad_unit": "9f3761ea3dfb8c6f",
+          "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
@@ -53,10 +57,25 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "937ed0b26dabbf82"
+          "ad_unit": "937ed0b26dabbf82",
+          "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
+        }
+      ]
+    },
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "4173c3b95bdd35b0",
+          "enable": false
+        },
+        {
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     }
