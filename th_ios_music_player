@@ -9,69 +9,62 @@
     "content": "Open iOS Music Player and enjoy your life after a hardworking day"
   },
   "ads_config": {
-    "enable": false
+    "enable": true,
+    "interval": 30
   },
   "ad_units": {
     "full_splash": {
       "units": [
         {
-          "ad_network": "startio",
-          "enable":false
+          "ad_network": "max",
+          "ad_unit": "091cf0d625d176f4"
         },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "a982984fc1ab47d9b0586ce49cbe92e0"
-        }
-      ]
-    },
-    "full_mini_bar": {
-      "units": [
-        {
-          "ad_network": "startio",
-          "enable":false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "3c81f9d768a54374a2f47cf4d4e94186",
-          "enable":false
-        }
-      ]
-    },
-    "full_main_item": {
-      "first": 4,
-      "next": 8,
-      "units": [
-        {
-          "ad_network": "startio",
-          "enable":false
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "13053fdfb7ed44c9a3fea7c8324fb023",
-          "enable":false
-        }
-      ]
-    },
-    "banner_player": {
-      "units": [
         {
           "ad_network": "startio"
-        },
-        {
-          "ad_network": "mopub",
-          "ad_unit": "2c02832f6ede46068e5ec78b6a3a0a64"
         }
       ]
     },
-    "native_exit": {
+    "full_player": {
       "units": [
         {
-          "ad_network": "startio",
-           "enable":false
+          "ad_network": "max",
+          "ad_unit": "594b6bc5fa30c7d1"
         },
         {
-          "ad_network": "mopub",
-          "ad_unit": "539829cd0fb94f4e9ab6352279c3c131"
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_equalizer": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "fd6b50a6acd2f848"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_setting": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "6bf0aff1608a1b11"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "main_banner": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "60663c4837c3434c"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
