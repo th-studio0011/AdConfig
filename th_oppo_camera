@@ -10,15 +10,25 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 30
+    "interval": 5
   },
   "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "mopub",
+          "ad_unit": "7d2555524bd04065a618936eb2274b9f"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
     "full_main_item": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "48e759d3b6494a9892b7c970551ed8f3"
         },
         {
           "ad_network": "startio"
@@ -28,9 +38,8 @@
     "full_view_photo": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "0d6cdf67e655406b829161efa9112e1a"
         },
         {
           "ad_network": "startio"
@@ -40,9 +49,8 @@
     "full_save_edit_photo": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "fb0ba2e2bb924cc0ad1fc56c776fbe21"
         },
         {
           "ad_network": "startio"
@@ -52,9 +60,8 @@
     "full_save_collage": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "fe587604ac62461fa5dc054cd6bcf86b"
         },
         {
           "ad_network": "startio"
@@ -64,9 +71,8 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "317d775dc7cb4eb696d9e2ac5ce1019a"
         },
         {
           "ad_network": "startio"
@@ -76,9 +82,8 @@
     "banner_gallery": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "752356ecc8774f68aec1e6d2e945bcab"
         },
         {
           "ad_network": "startio"
@@ -88,9 +93,8 @@
     "banner_collage": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "326f48199284448ab29040287c6b055e"
         },
         {
           "ad_network": "startio"
@@ -100,9 +104,8 @@
     "native_success": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_network": "mopub",
+          "ad_unit": "abf359023cac49c4a579b48a07d85b74"
         },
         {
           "ad_network": "startio"
