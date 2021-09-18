@@ -9,7 +9,7 @@
     "content": "Open iOS Music Player and enjoy your life after a hardworking day"
   },
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
