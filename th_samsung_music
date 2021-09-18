@@ -2,7 +2,7 @@
   "version": "1.0",
   "ads_config": {
     "enable": true,
-    "interval": 30
+    "interval": 60
   },
   "ad_units": {
     "full_song_click": {
@@ -31,12 +31,10 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "f49b70476604c7e5",
-          "enable": false
+          "ad_unit": "f49b70476604c7e5"
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     },
@@ -44,12 +42,10 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "9f3761ea3dfb8c6f",
-          "enable": false
+          "ad_unit": "9f3761ea3dfb8c6f"
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     },
@@ -57,12 +53,10 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "937ed0b26dabbf82",
-          "enable": false
+          "ad_unit": "937ed0b26dabbf82"
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     },
@@ -70,12 +64,10 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": "4173c3b95bdd35b0",
-          "enable": false
+          "ad_unit": "4173c3b95bdd35b0"
         },
         {
-          "ad_network": "startio",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     }
