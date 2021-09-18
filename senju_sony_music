@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "notification_config": {
-    "enable": true,
+    "enable": false,
     "hour": "20",
     "minute": "0",
     "interval_in_hour": 24,
@@ -9,34 +9,28 @@
     "content": "Open Music Player and enjoy your life after a hardworking day!"
   },
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 60
   },
   "ad_units": {
-    "open_splash": {
+    "full_splash": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/7803264674",
-          "enable": true
+          "ad_network": "startio"
         }
       ]
     },
-    "full_mini_player": {
+    "full_player_click": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/7172709281",
-          "enable": true
+          "ad_network": "startio"
         }
       ]
     },
-    "banner_player": {
+    "banner_player_view": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-4258456153285085/5320926784",
-          "enable": false
+          "ad_network": "startio"
         }
       ]
     }
