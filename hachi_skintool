@@ -79,11 +79,11 @@
   },
   "recommendation_apps": [
     {
-      "app_name": "Skin Tools Pro",
-      "package_name": "com.bigbro.free.skin.tools",
-      "short_des": "We have just added a new pack: \nSkin VIP V34, provides many new skins, guns, emotes, vehicles. Try it free now !.",
-      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
-      "cover": "https://raw.githubusercontent.com/bigbro-studio/data-public/main/PREVIEW_V34.jpg"
+      "app_name": "New Skin Tools",
+      "package_name": "com.thstudio.skin.ff.tools.free",
+      "short_des": "We have just added a new pack: \nSkin VIP V40, provides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/1GHeJAPxmVYLCyYIxEy8cg3SOWRevXMtWXAGK-ZCs67aZQtS-zKTjCr3mnRgzAxqp24A=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
     }
   ]
 }
