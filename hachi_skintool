@@ -46,6 +46,10 @@
     "banner_skin_list": {
       "units": [
         {
+          "ad_network": "max",
+          "ad_unit": "0943b648888d0633"
+        },
+        {
           "ad_network": "startio"
         }
       ]
