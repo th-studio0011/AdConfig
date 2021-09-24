@@ -1,15 +1,15 @@
 {
-  "version": "1.0",
+  "version": "1.0-asset",
   "ads_config": {
     "enable": true,
-    "interval": 60
+    "interval": 30
   },
   "ad_units": {
     "full_song_click": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "e7e49cd7dd27ccec"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3955689631204421"
         },
         {
           "ad_network": "startio"
@@ -19,8 +19,8 @@
     "full_player_click": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "cc641c41dd83fd87"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3955691857870865"
         },
         {
           "ad_network": "startio"
@@ -30,8 +30,8 @@
     "full_main_item": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "f49b70476604c7e5"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3959842550789129"
         },
         {
           "ad_network": "startio"
@@ -41,8 +41,8 @@
     "banner_main": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "ed7e8fa4a698bfe3"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3959898854116832"
         },
         {
           "ad_network": "startio"
@@ -52,8 +52,8 @@
     "banner_player": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "d4486bac23a1b43b"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3959900810783303"
         },
         {
           "ad_network": "startio"
@@ -63,8 +63,8 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "4173c3b95bdd35b0"
+          "ad_network": "fan",
+          "ad_unit": "3955674904539227_3960033170770067"
         },
         {
           "ad_network": "startio"
