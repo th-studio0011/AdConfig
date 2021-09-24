@@ -1,58 +1,166 @@
 {
-  "version": "1.0",
   "ads_config": {
     "enable": true,
-    "interval": 60
+    "interval": 30
   },
   "ad_units": {
-    "open_app": {
+    "full_splash": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377640893856581",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2538734207",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
-    "full_main": {
+    "full_main_item": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377652127188791",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5252527452"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_main": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377652467188757",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5607750679",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377652723855398",
+          "enable": false
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4103097318",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_category": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377652990522038",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3911525622",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_detail": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377653260522011",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2147017819",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "full_mod_skin": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377653530521984",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7467627253"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "banner_list": {
       "units": [
         {
+          "ad_network": "fan",
+          "ad_unit": "377640050523332_377653740521963",
+          "enable": false
+        },
+        {
           "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4216801477",
+          "enable": false
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
-  }
+  },
+  "recommendation_apps": [
+    {
+      "highlight": true,
+      "app_name": "Skin Tools Pro",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "Elite pass bundles, emotes, gun skins",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/nfiYLGnhZrpukLSr4nnx8PHEhFcHUO_iHn6shDPQ7wl_HGb67yfLfo-fbQ33AwwJIaMn"
+    },
+    {
+      "app_name": "New Skin Tools",
+      "package_name": "com.hachi.free.skin.tools.textura.ff",
+      "short_des": "Unlimited skin and weapons for your hero and have fun with Skin Tools for FF",
+      "icon": "https://play-lh.googleusercontent.com/Y2dDueHoQm1YlDSqOoMFqKOlxZaK9eL8UymlxVxUEq8_pV6HtXcCUatvfknIZ0DFLQ=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/wTP6q_4T5KSGgNEE8ybqbe0XVoIh5Q2-zd9OJHGGrp9KiilY-wLaqeTrt0MFd2VKpRdg"
+    },
+    {
+      "app_name": "iNote iOS 14 - Notes for iPhone 12",
+      "package_name": "com.thstudio.note.iphone.inote",
+      "short_des": "Powerful & best effective Notepad, Notes for iPhone 12",
+      "icon": "https://play-lh.googleusercontent.com/_LVUnH-TVSd9UQ2BE73vPfHZY7Lj4otApKY532ZBUtYnsRvaaKzWg8u32Ld22G6_IS4_=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/HHW_FKN0gvfhda9JCzuQs03IoSKJxMOipB5S_iyLsJBN3Ypi-KQGHHWe9GlwB5pQmVay"
+    }
+  ]
 }
