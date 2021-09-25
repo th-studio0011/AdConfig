@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 60
   },
   "ad_units": {
@@ -25,7 +25,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-8640346851651439/6714084255"
         }
       ]
     },
@@ -33,7 +33,7 @@
           "units": [
             {
               "ad_network": "admob",
-              "ad_unit": ""
+              "ad_unit": "ca-app-pub-8640346851651439/4384623754"
             }
           ]
         }
