@@ -10,22 +10,33 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 20
+    "interval": 30
   },
   "ad_units": {
     "full_splash": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "2029c88f201f27b3"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "full_apply_skin": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "2b85bea3f367f8d8"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
         },
         {
           "ad_network": "startio"
@@ -35,8 +46,12 @@
     "full_main_item": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "f63ec93e2dcaaa7c"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
         },
         {
           "ad_network": "startio"
@@ -46,8 +61,12 @@
     "banner_skin_list": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "0943b648888d0633"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
         },
         {
           "ad_network": "startio"
@@ -57,8 +76,12 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "3b679d7c05fae74e"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
         },
         {
           "ad_network": "startio"
@@ -68,8 +91,57 @@
     "native_detail": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "6ef775182b6e126d"
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_unzip": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_reset": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_home": {
+      "units": [
+        {
+          "ad_network": "fan",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
         },
         {
           "ad_network": "startio"
@@ -83,11 +155,11 @@
   },
   "recommendation_apps": [
     {
-      "app_name": "New Skin Tools",
-      "package_name": "com.thstudio.skin.ff.tools.free",
-      "short_des": "We have just added a new pack:Skin VIP V40-V45 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
-      "icon": "https://play-lh.googleusercontent.com/1GHeJAPxmVYLCyYIxEy8cg3SOWRevXMtWXAGK-ZCs67aZQtS-zKTjCr3mnRgzAxqp24A=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
+      "app_name": "Skin Tools Pro",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "We have just added a new pack: \nSkin VIP V34, provides many new skins, guns, emotes, vehicles. Try it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://raw.githubusercontent.com/bigbro-studio/data-public/main/PREVIEW_V34.jpg"
     }
   ]
 }
