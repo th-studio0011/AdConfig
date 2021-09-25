@@ -9,7 +9,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
         }
       ]
     },
@@ -17,7 +18,8 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "",
+          "enable": false
         }
       ]
     },
@@ -29,13 +31,13 @@
         }
       ]
     },
-     "native_main": {
-          "units": [
-            {
-              "ad_network": "admob",
-              "ad_unit": "ca-app-pub-8640346851651439/4384623754"
-            }
-          ]
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/4384623754"
         }
+      ]
+    }
   }
 }
