@@ -8,8 +8,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377640893856581",
-          "enable": false
+          "ad_unit": "377640050523332_377640893856581"
         },
         {
           "ad_network": "admob",
@@ -25,8 +24,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377652127188791",
-          "enable": false
+          "ad_unit": "377640050523332_377652127188791"
         },
         {
           "ad_network": "admob",
@@ -41,8 +39,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377652467188757",
-          "enable": false
+          "ad_unit": "377640050523332_377652467188757"
         },
         {
           "ad_network": "admob",
@@ -58,8 +55,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377652723855398",
-          "enable": false
+          "ad_unit": "377640050523332_377652723855398"
         },
         {
           "ad_network": "admob",
@@ -75,8 +71,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377652990522038",
-          "enable": false
+          "ad_unit": "377640050523332_377652990522038"
         },
         {
           "ad_network": "admob",
@@ -92,8 +87,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377653260522011",
-          "enable": false
+          "ad_unit": "377640050523332_377653260522011"
         },
         {
           "ad_network": "admob",
@@ -109,8 +103,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377653530521984",
-          "enable": false
+          "ad_unit": "377640050523332_377653530521984"
         },
         {
           "ad_network": "admob",
@@ -125,8 +118,7 @@
       "units": [
         {
           "ad_network": "fan",
-          "ad_unit": "377640050523332_377653740521963",
-          "enable": false
+          "ad_unit": "377640050523332_377653740521963"
         },
         {
           "ad_network": "admob",
