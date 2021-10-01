@@ -16,8 +16,8 @@
     "full_splash": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "091cf0d625d176f4"
+          "ad_network": "fan",
+          "ad_unit": "602274414102982_602275024102921"
         },
         {
           "ad_network": "startio"
@@ -27,8 +27,8 @@
     "full_player": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "594b6bc5fa30c7d1"
+          "ad_network": "fan",
+          "ad_unit": "602274414102982_602275327436224"
         },
         {
           "ad_network": "startio"
@@ -38,8 +38,8 @@
     "full_equalizer": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "fd6b50a6acd2f848"
+          "ad_network": "fan",
+          "ad_unit": "602274414102982_602275460769544"
         },
         {
           "ad_network": "startio"
@@ -49,8 +49,8 @@
     "full_setting": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "6bf0aff1608a1b11"
+          "ad_network": "fan",
+          "ad_unit": "602274414102982_602275594102864"
         },
         {
           "ad_network": "startio"
@@ -60,8 +60,8 @@
     "main_banner": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "60663c4837c3434c"
+          "ad_network": "fan",
+          "ad_unit": "602274414102982_602275714102852"
         },
         {
           "ad_network": "startio"
