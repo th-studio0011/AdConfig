@@ -20,6 +20,14 @@
         }
       ]
     },
+    "open_home_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5822764281"
+        }
+      ]
+    },
     "full_main_item": {
       "units": [
         {
