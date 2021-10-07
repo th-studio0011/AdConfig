@@ -1,7 +1,7 @@
 {
   "ads_config": {
     "enable": true,
-    "interval": 60
+    "interval": 20
   },
   "ad_units": {
     "full_splash": {
@@ -24,63 +24,85 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5822764281"
+          "ad_unit": "ca-app-pub-1266329057696784/5822764281",
+          "enable": false
         }
       ]
     },
     "full_main_item": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5252527452"
+          "ad_network": "max",
+          "ad_unit": "166c608b4d044bf1"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5607750679"
+          "ad_network": "max",
+          "ad_unit": "775b6db0b69f089b"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_download": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4103097318"
+          "ad_network": "max",
+          "ad_unit": "f3618e7a8df06361"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_category": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3911525622"
+          "ad_network": "max",
+          "ad_unit": "4d34975068b9e713"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "native_detail": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/2147017819"
+          "ad_network": "max",
+          "ad_unit": "40f1d8d523937b47"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "full_mod_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/7467627253"
+          "ad_network": "max",
+          "ad_unit": "979e7c047bebc766"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
     "banner_list": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4216801477"
+          "ad_network": "max",
+          "ad_unit": "c4148eaec3e6d156"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
