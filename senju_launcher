@@ -9,7 +9,7 @@
     "content": ""
   },
   "ads_config": {
-    "enable": true,
+    "enable": false,
     "interval": 60
   },
   "ad_units": {
