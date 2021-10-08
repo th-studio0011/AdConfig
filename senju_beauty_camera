@@ -8,32 +8,28 @@
     "open_splash": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/8657661240"
+          "ad_network": "startio"
         }
       ]
     },
     "full_camera": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/3153612182"
+          "ad_network": "startio"
         }
       ]
     },
     "full_gallery": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/4050517618"
+          "ad_network": "startio"
         }
       ]
     },
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/4384623754"
+          "ad_network": "startio"
         }
       ]
     }
