@@ -2,16 +2,96 @@
   "version": "1.0",
   "ads_config": {
     "enable": false,
-    "interval": 60
+    "interval": 30
   },
   "ad_units": {
-    "open_splash": {
+    "open_main": {
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "",
-          "enable": false
+          "ad_unit": "ca-app-pub-8640346851651439/1520002281"
+        }
+      ]
+    },
+    "full_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/5944147239"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/4057362254"
+        }
+      ]
+    },
+    "native_category": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/4631065568"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/3317983898"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/6580757271"
+        }
+      ]
+    },
+    "full_apply": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/7794600744"
+        }
+      ]
+    },
+    "banner_list": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/6481519079"
         }
       ]
     }
+  },
+  "recommendation_apps": [
+    {
+      "highlight": true,
+      "app_name": "Skin Tools Pro",
+      "package_name": "com.bigbro.free.skin.tools",
+      "short_des": "Elite pass bundles, emotes, gun skins",
+      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/nfiYLGnhZrpukLSr4nnx8PHEhFcHUO_iHn6shDPQ7wl_HGb67yfLfo-fbQ33AwwJIaMn"
+    },
+    {
+      "app_name": "Skin Tools",
+      "package_name": "com.hachi.free.skin.tools.textura.ff",
+      "short_des": "Unlimited skin and weapons for your hero and have fun with Skin Tools for FF",
+      "icon": "https://play-lh.googleusercontent.com/Y2dDueHoQm1YlDSqOoMFqKOlxZaK9eL8UymlxVxUEq8_pV6HtXcCUatvfknIZ0DFLQ=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/wTP6q_4T5KSGgNEE8ybqbe0XVoIh5Q2-zd9OJHGGrp9KiilY-wLaqeTrt0MFd2VKpRdg"
+    },
+    {
+      "app_name": "New Skin Tools",
+      "package_name": "com.thstudio.skin.ff.tools.free",
+      "short_des": "We have just added a new pack for Free Fire OB 30 1.65.3 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/1GHeJAPxmVYLCyYIxEy8cg3SOWRevXMtWXAGK-ZCs67aZQtS-zKTjCr3mnRgzAxqp24A=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
+    }
+  ]
 }
