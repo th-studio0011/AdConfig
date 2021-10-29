@@ -113,12 +113,11 @@
   },
   "recommendation_apps": [
     {
-      "highlight": true,
-      "app_name": "Skin Tools Pro",
-      "package_name": "com.bigbro.free.skin.tools",
-      "short_des": "Elite pass bundles, emotes, gun skins",
-      "icon": "https://play-lh.googleusercontent.com/maR6J2-xSFeuEm5tpP4wKHWb9Yn2DsZVUT2CrUVJJHqDPnWQACEwLS_nCsPvQt90YveL=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/nfiYLGnhZrpukLSr4nnx8PHEhFcHUO_iHn6shDPQ7wl_HGb67yfLfo-fbQ33AwwJIaMn"
+      "app_name": "Skin Tools for FF & FF MAX",
+      "package_name": "com.gmt.ff.tool.free",
+      "short_des": "Elite pass bundles, skin, enemy detection for both FF MAX and FF is waiting for you. \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/fVronV46I-lIxADIbcG7IzTzwOoj_y9p0J-LU6J-YATnr_GJKmsCR3SNXW88P6sIcQ=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/OfE3P-gxH2GB4REXO-2yTMaxkQszqc4lgGB9kebKlSc0TP6PZxbDfeNb0hwUjKv8p_Et"
     },
     {
       "app_name": "New Skin Tools",
