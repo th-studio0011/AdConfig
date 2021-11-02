@@ -115,7 +115,7 @@
         {
           "ad_network": "max",
           "ad_unit": "d858b2dc00879830",
-          "enable" : false
+          "enable": false
         }
       ]
     },
@@ -151,10 +151,6 @@
     },
     "full_main_ff_max": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6080662425"
-        },
         {
           "ad_network": "max",
           "ad_unit": "880a0f026b551494"
