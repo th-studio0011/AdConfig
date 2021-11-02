@@ -109,6 +109,60 @@
           "ad_network": "startio"
         }
       ]
+    },
+    "native_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "d858b2dc00879830",
+          "enable" : false
+        }
+      ]
+    },
+    "full_mod_more": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "d2a50dddacd14afc"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4984376636"
+        }
+      ]
+    },
+    "full_main_ff": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "efb97d56195c1b58"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_ff_max": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6080662425"
+        },
+        {
+          "ad_network": "max",
+          "ad_unit": "880a0f026b551494"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
     }
   },
   "recommendation_apps": [
