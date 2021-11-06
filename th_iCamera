@@ -10,7 +10,7 @@
   },
   "ads_config": {
     "enable": true,
-    "interval": 30
+    "interval": 60
   },
   "ad_units": {
     "open_splash": {
@@ -33,7 +33,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/9332891230"
+          "ad_unit": "ca-app-pub-6223305386183432/5691695900"
         }
       ]
     },
