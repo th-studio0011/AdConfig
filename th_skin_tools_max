@@ -1,14 +1,22 @@
 {
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
+    "open_home_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        }
+      ]
+    },
     "full_splash": {
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "9147bce0c8c81ab6"
         },
         {
           "ad_network": "startio"
@@ -19,7 +27,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "53e55a6e69fefd83"
         },
         {
           "ad_network": "startio"
@@ -30,7 +38,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "db5db49f23b2aa70"
         },
         {
           "ad_network": "startio"
@@ -41,7 +49,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "e788b0ea574d43e1"
         },
         {
           "ad_network": "startio"
@@ -52,7 +60,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "bd7078878525685e"
         },
         {
           "ad_network": "startio"
@@ -63,7 +71,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "f3cecca91ec0ef4d"
         },
         {
           "ad_network": "startio"
@@ -74,7 +82,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "f05088f7207749f0"
         },
         {
           "ad_network": "startio"
@@ -85,7 +93,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "0db7cadaafc6207c"
         },
         {
           "ad_network": "startio"
@@ -96,7 +104,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "74062666bbd687e2"
         },
         {
           "ad_network": "startio"
@@ -107,7 +115,7 @@
       "units": [
         {
           "ad_network": "max",
-          "ad_unit": ""
+          "ad_unit": "6d2a8d569b4a2c81"
         }
       ]
     }
