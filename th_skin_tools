@@ -158,9 +158,9 @@
     }
   },
   "app_version_config": {
-    "last_version": "2.2",
+    "last_version": "2.6",
     "force_update": false,
-    "new_feature": "In new version we added FIST mod & fix bug crash."
+    "new_feature": "In new version we provide PREMIUM package and fix all bug from previous version."
   },
   "recommendation_apps": [
     {
