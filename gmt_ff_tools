@@ -68,6 +68,22 @@
           "ad_unit": "ca-app-pub-8640346851651439/6481519079"
         }
       ]
+    },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/8364324222"
+        }
+      ]
+    },
+    "full_mod_more": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-8640346851651439/8313526797"
+        }
+      ]
     }
   },
   "recommendation_apps": [
