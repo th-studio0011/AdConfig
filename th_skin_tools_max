@@ -154,18 +154,11 @@
   },
   "recommendation_apps": [
     {
-      "app_name": "Nickname for Free Fire",
-      "package_name": "com.th.studio.ff.nickname.freee",
-      "short_des": "FF Nickname is nickname generator and stylish name creator for FFrie and gamers",
-      "icon": "https://play-lh.googleusercontent.com/59a3nciZTnwzwBeDt9dnbPbbpOJWK1d04hK-7RSD2QklXorbxEosw074ApneVrZnRxM=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/yR9ygM8D3kgcr3JrXEJAUKaaAt9dSvtLJhY1_-a6jSEX14YfQkgPtcWfCcplPX48aisV"
-    },
-    {
-      "app_name": "New Skin Tools",
-      "package_name": "com.hachi.free.skin.tools.textura.ff",
-      "short_des": "Unlimited skin and weapons for your hero and have fun with Skin Tools for FF",
-      "icon": "https://play-lh.googleusercontent.com/Y2dDueHoQm1YlDSqOoMFqKOlxZaK9eL8UymlxVxUEq8_pV6HtXcCUatvfknIZ0DFLQ=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/wTP6q_4T5KSGgNEE8ybqbe0XVoIh5Q2-zd9OJHGGrp9KiilY-wLaqeTrt0MFd2VKpRdg"
+      "app_name": "Skin Tools Pro FF",
+      "package_name": "com.toolbox.ff.skin.tool.free",
+      "short_des": "The best app Mod Skin Tools for Free Fire and Free Fire MAX OB31",
+      "icon": "https://play-lh.googleusercontent.com/18PcPoOx929toX1G6IM_-I1qvd4ml4IkabCseUS-3JjObmL22alrw-Km0z10CnlU55nV=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/1IQi0ZX7wUkG6qhW8oI9PtzUinviCyKg1PG2YWz9elqviYBRKZW7iMv3pYgTcQCj5A"
     },
     {
       "app_name": "iNote iOS 14 - Notes for iPhone 12",
