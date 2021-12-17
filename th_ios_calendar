@@ -16,6 +16,10 @@
     "full_click_main": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5054667974"
+        },
+        {
           "ad_network": "startio"
         },
         {
@@ -26,6 +30,10 @@
     },
     "full_event_created": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7489259620"
+        },
         {
           "ad_network": "startio"
         },
