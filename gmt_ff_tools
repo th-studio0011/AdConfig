@@ -89,6 +89,13 @@
   "recommendation_apps": [
     {
       "highlight": true,
+      "app_name": "FF Skin Tools Pro Max",
+      "package_name": "com.hadu.ff.skin.tools.pro.free",
+      "short_des": "Mod grenade, emote, fist, weapon and more for both FF and FF Max.",
+      "icon": "https://play-lh.googleusercontent.com/2XVFVwTuCRTlPu1q1eOkUk6NoGuoW9sJCTK0lqD13FvAljvKhTW6HFX_alFNuCeOnFg=s360-rw",
+      "cover": "https://play-lh.googleusercontent.com/_zEDVsb6ynJRRE9WBSrMitVQUlishuYABva0380zlBdXU_Lc_jdelT-kEORKz0CTKs4"
+    },
+    {
       "app_name": "Skin Tools Pro FF",
       "package_name": "com.toolbox.ff.skin.tool.free",
       "short_des": "The best app Mod Skin Tools for Free Fire and Free Fire MAX OB31",
