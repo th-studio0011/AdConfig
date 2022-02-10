@@ -1,7 +1,7 @@
 {
   "version": "default-asset-version",
   "ads_config": {
-    "enable": true,
+    "enable": false,
     "interval": 5
   },
   "ad_units": {
