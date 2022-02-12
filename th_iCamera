@@ -35,8 +35,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-6223305386183432/5691695900",
-          "enable": false
+          "ad_unit": "ca-app-pub-6223305386183432/4691630883"
         }
       ]
     },
