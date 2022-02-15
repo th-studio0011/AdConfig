@@ -5,83 +5,66 @@
     "interval": 30
   },
   "ad_units": {
-    "open_main": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/1520002281"
-        }
-      ]
-    },
     "full_item": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/5944147239"
+          "ad_network": "startio"
         }
       ]
     },
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/4057362254"
+          "ad_network": "startio"
         }
       ]
     },
     "native_category": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/4631065568"
+          "ad_network": "startio"
         }
       ]
     },
     "native_detail": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/3317983898"
+          "ad_network": "startio"
         }
       ]
     },
     "native_download": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/6580757271"
+          "ad_network": "startio"
         }
       ]
     },
     "full_apply": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/7794600744"
+          "ad_network": "startio"
         }
       ]
     },
     "banner_list": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/6481519079"
+          "ad_network": "startio"
         }
       ]
     },
     "reward_item": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/8364324222"
+          "ad_network": "startio"
         }
       ]
     },
     "full_mod_more": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-8640346851651439/8313526797"
+          "ad_network": "startio"
         }
       ]
     }
