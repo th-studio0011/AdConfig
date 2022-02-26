@@ -1,6 +1,6 @@
 {
   "ads_config": {
-    "enable": ,
+    "enable": false,
     "interval": 30
   },
   "ad_units": {
