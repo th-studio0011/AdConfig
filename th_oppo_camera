@@ -9,15 +9,15 @@
     "content": "Let’s take selfies with beautiful features, filters, and effects!!!"
   },
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
     "full_splash": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2159934587503016"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6701316788"
         },
         {
           "ad_network": "startio"
@@ -27,8 +27,8 @@
     "full_main_item": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107033285772"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2122109228"
         },
         {
           "ad_network": "startio"
@@ -38,8 +38,8 @@
     "full_view_photo": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2101551550007987"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7631255077"
         },
         {
           "ad_network": "startio"
@@ -49,8 +49,8 @@
     "full_save_edit_photo": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107209952421"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6126601710"
         },
         {
           "ad_network": "startio"
@@ -60,8 +60,8 @@
     "full_save_collage": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107339952408"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4813520047"
         },
         {
           "ad_network": "startio"
@@ -71,8 +71,8 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107463285729"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6673396622"
         },
         {
           "ad_network": "startio"
@@ -82,8 +82,8 @@
     "banner_gallery": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107559952386"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9873440884"
         },
         {
           "ad_network": "startio"
@@ -93,8 +93,8 @@
     "banner_collage": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107709952371"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/8861927336"
         },
         {
           "ad_network": "startio"
@@ -104,8 +104,8 @@
     "native_success": {
       "units": [
         {
-          "ad_network": "fan",
-          "ad_unit": "2101550163341459_2102107463285729"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6235763995"
         },
         {
           "ad_network": "startio"
