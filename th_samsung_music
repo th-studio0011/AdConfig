@@ -1,5 +1,5 @@
 {
-  "version": "1.0-asset",
+  "version": "1.1",
   "ads_config": {
     "enable": true,
     "interval": 30
@@ -7,6 +7,10 @@
   "ad_units": {
     "full_song_click": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3915617132"
+        },
         {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3955689631204421"
@@ -19,6 +23,10 @@
     "full_player_click": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5043181769"
+        },
+        {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3955691857870865"
         },
@@ -29,6 +37,10 @@
     },
     "full_main_item": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6476479095"
+        },
         {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3959842550789129"
@@ -41,6 +53,10 @@
     "banner_main": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4660038388"
+        },
+        {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3959898854116832"
         },
@@ -52,6 +68,10 @@
     "banner_player": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5781548367"
+        },
+        {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3959900810783303"
         },
@@ -62,6 +82,10 @@
     },
     "full_splash": {
       "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/1290287947"
+        },
         {
           "ad_network": "fan",
           "ad_unit": "3955674904539227_3960033170770067"
